@@ -1,5 +1,3 @@
-[![ZC_Name](https://github.com/bayssmekanique/bayssmekanique/assets/2280384/aaef582b-084f-4434-be5b-d8c4dfa16f5b)](https://zachcardoza.com)
-
 ### Hey 👋
 
 I'm Zach. I have been writing software for about twenty years, and leading the people who write it for half of those. Day job is an engineering team at [Optum](https://www.optum.com/), building care management and referrals for UHG members. The rest of the time I run [Kaweah Tech](https://kaweah.tech), the AI and software consultancy I started in 2023 to bring real engineering work to businesses in California's Central Valley.
